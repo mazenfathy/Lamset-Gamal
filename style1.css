@@ -1,0 +1,404 @@
+/* #e8f13c */
+body{
+   
+}
+
+h2{
+    color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.clearfix{
+    clear: both;
+}
+hr{
+    background-color:#d2c3c3
+}
+/* start navbar */
+.nav-bar{
+    background-color: #e8f13c;
+    color: red;
+    overflow: hidden;
+    height: 50px;
+}
+.nav-bar h2{
+    float: left;
+}
+.nav-bar h2 span{
+    color:red;
+}
+.nav-bar ul{
+    list-style: none;
+    padding-left: 0;
+    float: right;
+}
+.nav-bar ul li{
+    float: left;
+    padding: 10px;
+    font-weight: bold;
+}
+.nav-bar ul li a{
+    color:  red;
+    text-decoration: none;   
+}
+.nav-bar ul li.active a,
+.nav-bar ul li a:hover{
+    color: black;
+}
+/* end navbar */
+.group{
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-bottom: 700px;
+}
+.group img{
+    position: absolute;
+    left: 0;
+    top: 0;
+     width: 100%;
+    height: auto;   
+}
+/* Start Make */
+#Make{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;    
+}
+.mazen{
+    background-color: #e8f13c;
+}
+#Make p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Make . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Make > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+.mm ,.mm:hover{
+    text-decoration: none;
+    color: #e8f13c;
+}
+
+/* End Make */
+/* Start Conditioner */
+#Conditioner{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Conditioner p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Conditioner . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Conditioner > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Conditioner */
+/* Start Shmpoo */
+#Shmpoo{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Shmpoo p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Shmpoo . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Shmpoo > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Shmpoo */
+/* Start Shawar */
+#Shawar{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Shawar p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Shawar . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Shawar > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Shawar */
+/* Start Creams */
+#Creams{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Creams p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Creams . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Creams > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Creams */
+/* Start Perfumed */
+#Perfumed{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Perfumed p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Perfumed . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Perfumed > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Perfumed */
+/* Start Fiber */
+#Fiber{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Fiber p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Fiber . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Fiber > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Fiber */
+/* Start Devices */
+#Devices{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Devices p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Devices . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Devices > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Devices */
+/* Start Cream */
+#Cream{
+    background-color: #f2f2f2;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    padding-bottom: 30px;
+}
+#Cream p{
+    line-height: 1.6;
+    color: #666;
+    padding: 0 20px;
+}
+#Cream . h2{
+    font-weight: bold;
+    color: #666;
+}
+#Cream > div img{
+    margin: 10px;
+    padding: 3px;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+/* End Cream */
+
+/* Start Contact */
+.contact{
+    background-color: #e8f13c;
+    overflow: hidden;
+    padding-top: 50px;
+    padding-bottom: 70px;
+}
+.contact .info h2{
+    color: black;
+    margin-left: 40px;
+}
+.contact .info P{
+     color: #310404;
+     margin-left: 40px;
+    line-height: 1.7;
+}
+.contact .info{
+     width: 50%;
+    margin-right: 5%;
+    float: left;
+}
+.contact .form{
+    width: 45%;
+    float: left;
+}
+.contact .form label {
+    display: block;
+    color: black;
+    margin-bottom: 10px 0;
+}
+.contact p strong{
+    color: black;
+}
+.contact .form input[type="text"]{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: 0;
+    width: 80%;
+    margin-bottom: 10px;
+     border: 1px solid #ccc;
+}
+.contact .form textarea{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border: 0;
+    width: 80%;
+    margin-bottom: 10px;
+    height: 300px;
+    border: 1px solid #ccc;
+}
+.contact .form input[type="submit"]{
+    background-color: #fff;
+    color: black;
+    font-weight: bold;
+    padding: 10px 20px; 
+    border: 0;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    
+}
+/* End Contact */
+/* Start Footer */
+.footer{
+    background-color:#e8f13c    ; 
+    color: black;
+    padding: 20px 0;
+    text-align: center;
+    overflow: hidden;
+}
+.footer span{
+    float: left;
+}
+.footer ul{
+    list-style: none;
+    padding-left: 0;
+    margin: 0;  
+    text-align: center;
+    float: right;
+}
+.footer ul li {
+    display: inline-block;
+    margin-top: 10px;
+}
+.footer ul li img{
+    width: 34px;
+    cursor: pointer;
+}
+/* End Footer*/
+.card{
+    display: inline-block;
+    margin-top: 10PX;
+    margin-bottom: 50px;
+}
+.card img{
+    width: 270px;
+}
+.btn-primary,
+.btn-primary:hover{
+    background-color: #e8f13c;
+    border: 1px solid #e8f13c;
+}
+.ll{
+    width: 1170px;
+    margin: 0 auto;
+}
